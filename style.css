@@ -70,6 +70,10 @@ h4{
 	letter-spacing: 2px;
 	font-size: 20px;
 }
+#typing-text {
+    border-right: 3px solid black; /* Blinking cursor effect */
+    padding-right: 3px;
+}
 .home{
 	width: auto;
 	padding: 20px 5px;
